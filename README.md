@@ -1,2 +1,2 @@
 # books
-API simples para deploy no AWS CodeDeploy
+API Java simples para deploy no AWS CodeDeploy
